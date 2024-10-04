@@ -1,7 +1,3 @@
-
-![Logo](https://images.wallpaperscraft.com/image/single/codes_code_letters_135169_2560x1080.jpg)
-
-
 # Welcome everyone ✨
 
 
