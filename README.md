@@ -1,7 +1,8 @@
+
 # Welcome everyone ✨
 
 
-## 📖 About 
+## 👋🏻 About Me 
 
 #### Firstname
 
@@ -14,3 +15,7 @@
 #### Nickname
 
     Eng: Net Thai: เน็ต
+
+#### Email
+
+    netpramad@gmail.com
