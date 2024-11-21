@@ -6,7 +6,7 @@
 
 #### Firstname
 
-    Eng: Paramad  Thai: ปารเมศ
+    Eng: Paramad Thai: ปารเมศ
 
 #### Lastname
 
