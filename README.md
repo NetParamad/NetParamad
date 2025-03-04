@@ -10,7 +10,7 @@
 
 #### Lastname
 
-    Eng: Choocherdrattnan Thai: ชูเชิดรัตนา
+    Eng: Choocherdrattana Thai: ชูเชิดรัตนา
 
 #### Nickname
 
