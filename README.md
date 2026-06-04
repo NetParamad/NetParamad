@@ -21,8 +21,5 @@
     netpramad@gmail.com
 
 ###### Website
-<p align="center">
-  <a href="https://netparamad.vercel.app/">
-    <img src="./images/wallpaper.png" alt="NetParamad" width="80%">
-  </a>
-</p>
+
+[![NetParamad](./images/wallpaper.png)](https://netparamad.vercel.app/)
