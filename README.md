@@ -19,3 +19,5 @@
 #### Email
 
     netpramad@gmail.com
+
+[![NetParamad](./images/wallpaper.png)](https://netparamad.vercel.app/)
